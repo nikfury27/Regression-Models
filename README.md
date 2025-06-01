@@ -78,4 +78,4 @@ We use the built-in fetch_california_housing() from sklearn.datasets, which prov
 
 ## 🙌 Acknowledgments
 1. <a href="https://scikit-learn.org/stable/">scikit-learn</a>
-2.<a href="https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html">California Housing Dataset</a>
+2. <a href="https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html">California Housing Dataset</a>
