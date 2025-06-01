@@ -4,6 +4,61 @@ This project demonstrates the application and comparison of **eight regression a
 
 ---
 
+## 📘 What is Regression?
+Regression is a type of supervised machine learning technique used to predict continuous numerical values based on one or more input features. It helps identify and quantify the relationship between variables, making it a fundamental tool in data analysis and predictive modeling.
+
+
+### 🧭 Supervised vs Unsupervised Learning
+Supervised Learning involves training a model on a labeled dataset—i.e., the input data is paired with the correct output.
+
+Regression and Classification are two main types of supervised learning.
+
+Unsupervised Learning, on the other hand, deals with unlabeled data and includes techniques like clustering and dimensionality reduction.
+
+Since regression models are trained on known input-output pairs (e.g., house size ➝ price), regression is a supervised learning method.
+
+---
+
+## 🔍 Purpose of Regression
+The primary goal of regression is to model the relationship between independent variables (features) and a dependent variable (target). This allows us to:
+
+Predict future outcomes (e.g., predicting house prices, stock market trends)
+
+Analyze impact of input variables (e.g., understanding how income affects spending)
+
+Estimate missing data (e.g., imputing unknown values)
+
+Perform trend analysis and forecasting
+
+
+
+## 📦 Common Applications
+Real Estate: Estimating property prices
+
+Finance: Predicting stock prices or credit risk
+
+Healthcare: Forecasting patient recovery times or disease progression
+
+Retail: Sales prediction and demand forecasting
+
+Marketing: Customer lifetime value and ROI estimation
+
+Engineering: Modeling sensor readings or failure probabilities
+
+
+## 🛠️ Types of Regression Techniques
+Linear Regression – Assumes a linear relationship between input and output.
+
+Polynomial Regression – Captures non-linear trends using polynomial terms.
+
+Regularized Regressions – Like Ridge, Lasso, and ElasticNet, to prevent overfitting.
+
+Tree-based Models – Like Decision Trees and Random Forests, for non-linear, hierarchical patterns.
+
+Support Vector Regressor (SVR) – Based on margin maximization for robustness to outliers.
+
+---
+
 ## 📊 Overview
 
 In this notebook, we:
